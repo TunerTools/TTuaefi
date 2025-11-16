@@ -4800,6 +4800,22 @@
       <sheetpath names="/HS/" tstamps="/00597086-e224-44b1-b482-dd7841635acf/"/>
       <tstamps>df3145a1-3294-4719-84b2-d2be35388289</tstamps>
     </comp>
+        <comp ref="R15">
+      <value>4.7k</value>
+      <footprint>hellen-one-common:R0603</footprint>
+      <fields>
+        <field name="LCSC">C23162</field>
+        <field name="Footprint">hellen-one-common:R0603</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C23162"/>
+      <property name="Sheetname" value="HS"/>
+      <property name="Sheetfile" value="HS2.kicad_sch"/>
+      <sheetpath names="/HS/" tstamps="/00597086-e224-44b1-b482-dd7841635acf/"/>
+      <tstamps>df3145a1-3294-4719-84b2-d2be35388289</tstamps>
+    </comp>
     <comp ref="R20">
       <value>4.7k</value>
       <footprint>hellen-one-common:R0603</footprint>
